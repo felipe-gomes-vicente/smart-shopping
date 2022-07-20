@@ -54,7 +54,7 @@ const Contatos = () => {
     return( 
         <> 
             <Grid container direction="row" xs={12}> 
-                <TextField id="name" label="Name" value={author} onChange={(event)=>{setAuthor(event.target.value)}} fullWidth/> 
+                <TextField id="email" label="Email" value={author} onChange={(event)=>{setAuthor(event.target.value)}} fullWidth/> 
                 <TextField id="message" label="Message" value={content} onChange={(event)=>{setContent(event.target.value)}} fullWidth/> 
             </Grid> 
  
