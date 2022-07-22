@@ -47,7 +47,7 @@ Application developed using the following tools:
 - [NodeJS](https://nodejs.org/en/)
 - [React Redux](https://redux.js.org/)
 - [Express](https://expressjs.com/pt-br/)
-- [Ts node dev](https://github.com/wclr/ts-node-dev)
+- [Ts-node-dev](https://github.com/wclr/ts-node-dev)
 - [UUID](https://github.com/uuidjs/uuid)
 
 ## 🚀 Getting started
